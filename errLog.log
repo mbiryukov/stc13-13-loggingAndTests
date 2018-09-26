@@ -1,0 +1,3 @@
+Message to file
+java.lang.Exception: Exception message
+	at ru.innopolis.stc13.logging.first.Main.main(Main.java:19)
